@@ -1,0 +1,363 @@
+$date
+	Tue Jan 24 21:02:06 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module MUX_2_tb $end
+$var wire 64 ! Y [63:0] $end
+$var parameter 32 " WIDTH $end
+$var reg 64 # A [63:0] $end
+$var reg 64 $ B [63:0] $end
+$var reg 64 % C [63:0] $end
+$var reg 2 & S [1:0] $end
+$scope module comp $end
+$var wire 2 ' S [1:0] $end
+$var wire 64 ( X1 [63:0] $end
+$var wire 64 ) X2 [63:0] $end
+$var wire 64 * X3 [63:0] $end
+$var wire 1 + notS0 $end
+$var wire 1 , notS1 $end
+$var wire 64 - out [63:0] $end
+$var wire 64 . Y3 [63:0] $end
+$var wire 64 / Y2 [63:0] $end
+$var wire 64 0 Y1 [63:0] $end
+$var wire 64 1 Y [63:0] $end
+$var parameter 32 2 WIDTH $end
+$scope begin genblk1[0] $end
+$var parameter 2 3 i $end
+$upscope $end
+$scope begin genblk1[1] $end
+$var parameter 2 4 i $end
+$upscope $end
+$scope begin genblk1[2] $end
+$var parameter 3 5 i $end
+$upscope $end
+$scope begin genblk1[3] $end
+$var parameter 3 6 i $end
+$upscope $end
+$scope begin genblk1[4] $end
+$var parameter 4 7 i $end
+$upscope $end
+$scope begin genblk1[5] $end
+$var parameter 4 8 i $end
+$upscope $end
+$scope begin genblk1[6] $end
+$var parameter 4 9 i $end
+$upscope $end
+$scope begin genblk1[7] $end
+$var parameter 4 : i $end
+$upscope $end
+$scope begin genblk1[8] $end
+$var parameter 5 ; i $end
+$upscope $end
+$scope begin genblk1[9] $end
+$var parameter 5 < i $end
+$upscope $end
+$scope begin genblk1[10] $end
+$var parameter 5 = i $end
+$upscope $end
+$scope begin genblk1[11] $end
+$var parameter 5 > i $end
+$upscope $end
+$scope begin genblk1[12] $end
+$var parameter 5 ? i $end
+$upscope $end
+$scope begin genblk1[13] $end
+$var parameter 5 @ i $end
+$upscope $end
+$scope begin genblk1[14] $end
+$var parameter 5 A i $end
+$upscope $end
+$scope begin genblk1[15] $end
+$var parameter 5 B i $end
+$upscope $end
+$scope begin genblk1[16] $end
+$var parameter 6 C i $end
+$upscope $end
+$scope begin genblk1[17] $end
+$var parameter 6 D i $end
+$upscope $end
+$scope begin genblk1[18] $end
+$var parameter 6 E i $end
+$upscope $end
+$scope begin genblk1[19] $end
+$var parameter 6 F i $end
+$upscope $end
+$scope begin genblk1[20] $end
+$var parameter 6 G i $end
+$upscope $end
+$scope begin genblk1[21] $end
+$var parameter 6 H i $end
+$upscope $end
+$scope begin genblk1[22] $end
+$var parameter 6 I i $end
+$upscope $end
+$scope begin genblk1[23] $end
+$var parameter 6 J i $end
+$upscope $end
+$scope begin genblk1[24] $end
+$var parameter 6 K i $end
+$upscope $end
+$scope begin genblk1[25] $end
+$var parameter 6 L i $end
+$upscope $end
+$scope begin genblk1[26] $end
+$var parameter 6 M i $end
+$upscope $end
+$scope begin genblk1[27] $end
+$var parameter 6 N i $end
+$upscope $end
+$scope begin genblk1[28] $end
+$var parameter 6 O i $end
+$upscope $end
+$scope begin genblk1[29] $end
+$var parameter 6 P i $end
+$upscope $end
+$scope begin genblk1[30] $end
+$var parameter 6 Q i $end
+$upscope $end
+$scope begin genblk1[31] $end
+$var parameter 6 R i $end
+$upscope $end
+$scope begin genblk1[32] $end
+$var parameter 7 S i $end
+$upscope $end
+$scope begin genblk1[33] $end
+$var parameter 7 T i $end
+$upscope $end
+$scope begin genblk1[34] $end
+$var parameter 7 U i $end
+$upscope $end
+$scope begin genblk1[35] $end
+$var parameter 7 V i $end
+$upscope $end
+$scope begin genblk1[36] $end
+$var parameter 7 W i $end
+$upscope $end
+$scope begin genblk1[37] $end
+$var parameter 7 X i $end
+$upscope $end
+$scope begin genblk1[38] $end
+$var parameter 7 Y i $end
+$upscope $end
+$scope begin genblk1[39] $end
+$var parameter 7 Z i $end
+$upscope $end
+$scope begin genblk1[40] $end
+$var parameter 7 [ i $end
+$upscope $end
+$scope begin genblk1[41] $end
+$var parameter 7 \ i $end
+$upscope $end
+$scope begin genblk1[42] $end
+$var parameter 7 ] i $end
+$upscope $end
+$scope begin genblk1[43] $end
+$var parameter 7 ^ i $end
+$upscope $end
+$scope begin genblk1[44] $end
+$var parameter 7 _ i $end
+$upscope $end
+$scope begin genblk1[45] $end
+$var parameter 7 ` i $end
+$upscope $end
+$scope begin genblk1[46] $end
+$var parameter 7 a i $end
+$upscope $end
+$scope begin genblk1[47] $end
+$var parameter 7 b i $end
+$upscope $end
+$scope begin genblk1[48] $end
+$var parameter 7 c i $end
+$upscope $end
+$scope begin genblk1[49] $end
+$var parameter 7 d i $end
+$upscope $end
+$scope begin genblk1[50] $end
+$var parameter 7 e i $end
+$upscope $end
+$scope begin genblk1[51] $end
+$var parameter 7 f i $end
+$upscope $end
+$scope begin genblk1[52] $end
+$var parameter 7 g i $end
+$upscope $end
+$scope begin genblk1[53] $end
+$var parameter 7 h i $end
+$upscope $end
+$scope begin genblk1[54] $end
+$var parameter 7 i i $end
+$upscope $end
+$scope begin genblk1[55] $end
+$var parameter 7 j i $end
+$upscope $end
+$scope begin genblk1[56] $end
+$var parameter 7 k i $end
+$upscope $end
+$scope begin genblk1[57] $end
+$var parameter 7 l i $end
+$upscope $end
+$scope begin genblk1[58] $end
+$var parameter 7 m i $end
+$upscope $end
+$scope begin genblk1[59] $end
+$var parameter 7 n i $end
+$upscope $end
+$scope begin genblk1[60] $end
+$var parameter 7 o i $end
+$upscope $end
+$scope begin genblk1[61] $end
+$var parameter 7 p i $end
+$upscope $end
+$scope begin genblk1[62] $end
+$var parameter 7 q i $end
+$upscope $end
+$scope begin genblk1[63] $end
+$var parameter 7 r i $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b111111 r
+b111110 q
+b111101 p
+b111100 o
+b111011 n
+b111010 m
+b111001 l
+b111000 k
+b110111 j
+b110110 i
+b110101 h
+b110100 g
+b110011 f
+b110010 e
+b110001 d
+b110000 c
+b101111 b
+b101110 a
+b101101 `
+b101100 _
+b101011 ^
+b101010 ]
+b101001 \
+b101000 [
+b100111 Z
+b100110 Y
+b100101 X
+b100100 W
+b100011 V
+b100010 U
+b100001 T
+b100000 S
+b11111 R
+b11110 Q
+b11101 P
+b11100 O
+b11011 N
+b11010 M
+b11001 L
+b11000 K
+b10111 J
+b10110 I
+b10101 H
+b10100 G
+b10011 F
+b10010 E
+b10001 D
+b10000 C
+b1111 B
+b1110 A
+b1101 @
+b1100 ?
+b1011 >
+b1010 =
+b1001 <
+b1000 ;
+b111 :
+b110 9
+b101 8
+b100 7
+b11 6
+b10 5
+b1 4
+b0 3
+b1000000 2
+b1000000 "
+$end
+#0
+$dumpvars
+b0 1
+b0 0
+b0 /
+b0 .
+b0 -
+1,
+1+
+b0 *
+b0 )
+b0 (
+b0 '
+b0 &
+b0 %
+b0 $
+b0 #
+b0 !
+$end
+#10
+b11 !
+b11 -
+b11 1
+0+
+0,
+b11 .
+b0 /
+b0 0
+b11 &
+b11 '
+b11 %
+b11 *
+b1111111111111111111111111111111111111111111111111111111111111110 $
+b1111111111111111111111111111111111111111111111111111111111111110 )
+b1 #
+b1 (
+#20
+b1111111111111111111111111111111111111111111111111111111111111110 !
+b1111111111111111111111111111111111111111111111111111111111111110 -
+b1111111111111111111111111111111111111111111111111111111111111110 1
+b1111111111111111111111111111111111111111111111111111111111111110 /
+b0 .
+1+
+b10 &
+b10 '
+#30
+b1 !
+b1 -
+b1 1
+b1 0
+b0 /
+0+
+1,
+b1 &
+b1 '
+#40
+1+
+b0 &
+b0 '
+#50
+b0 !
+b0 -
+b0 1
+b0 0
+b0 %
+b0 *
+b0 $
+b0 )
+b0 #
+b0 (

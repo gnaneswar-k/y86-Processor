@@ -1,0 +1,115 @@
+$date
+	Sun Jan 22 01:29:13 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module full_adder_tb $end
+$var wire 1 ! Sum $end
+$var wire 1 " Carry $end
+$var reg 1 # A $end
+$var reg 1 $ B $end
+$var reg 1 % Cin $end
+$var integer 32 & i [31:0] $end
+$var integer 32 ' k [31:0] $end
+$scope module full_add $end
+$var wire 1 # A $end
+$var wire 1 $ B $end
+$var wire 1 " C $end
+$var wire 1 % Cin $end
+$var wire 1 ( X $end
+$var wire 1 ) S1 $end
+$var wire 1 ! S $end
+$var wire 1 * C1 $end
+$scope module comp1 $end
+$var wire 1 # A $end
+$var wire 1 $ B $end
+$var wire 1 * C $end
+$var wire 1 ) S $end
+$upscope $end
+$scope module comp2 $end
+$var wire 1 % A $end
+$var wire 1 ) B $end
+$var wire 1 ( C $end
+$var wire 1 ! S $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0*
+0)
+0(
+bx '
+b1 &
+0%
+0$
+0#
+0"
+0!
+$end
+#10
+1!
+1)
+b10 &
+1#
+b0 '
+#20
+b11 &
+1$
+0#
+b0 '
+#30
+0!
+1"
+0)
+1*
+b100 &
+1#
+b0 '
+#40
+0"
+1!
+0*
+b101 &
+1%
+0$
+0#
+b1 '
+#50
+1"
+0!
+1(
+1)
+b110 &
+1#
+b1 '
+#60
+b111 &
+1$
+0#
+b1 '
+#70
+1!
+0(
+0)
+1*
+b1000 &
+1#
+b1 '
+#80
+0"
+0!
+0*
+b1001 &
+0%
+0$
+0#
+b10 '
